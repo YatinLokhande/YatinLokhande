@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **I’m currently learning: data analysis, dashboard designing**
+- 🔭 I’m currently working on **Business Insights 360**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Yatin-Govinda-Lokhande](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
 
