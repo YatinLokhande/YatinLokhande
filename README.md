@@ -3,7 +3,7 @@
 [![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://YatinLokhande.io)
 
 <h1 align="center">Hi 👋, I'm Yatin Lokhande</h1>
-<h3 align="center">A passionate data analyst and freelancer from India</h3>
+<h3 align="center">A passionate data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
